@@ -1,0 +1,15 @@
+C:\Users\icrocetti\Desktop\Proyectos\ISI--Paradigmas-De-Programacion\clase7\clase7\bin\Debug\net10.0\clase7.exe
+C:\Users\icrocetti\Desktop\Proyectos\ISI--Paradigmas-De-Programacion\clase7\clase7\bin\Debug\net10.0\clase7.deps.json
+C:\Users\icrocetti\Desktop\Proyectos\ISI--Paradigmas-De-Programacion\clase7\clase7\bin\Debug\net10.0\clase7.runtimeconfig.json
+C:\Users\icrocetti\Desktop\Proyectos\ISI--Paradigmas-De-Programacion\clase7\clase7\bin\Debug\net10.0\clase7.dll
+C:\Users\icrocetti\Desktop\Proyectos\ISI--Paradigmas-De-Programacion\clase7\clase7\bin\Debug\net10.0\clase7.pdb
+C:\Users\icrocetti\Desktop\Proyectos\ISI--Paradigmas-De-Programacion\clase7\clase7\obj\Debug\net10.0\clase7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icrocetti\Desktop\Proyectos\ISI--Paradigmas-De-Programacion\clase7\clase7\obj\Debug\net10.0\clase7.AssemblyInfoInputs.cache
+C:\Users\icrocetti\Desktop\Proyectos\ISI--Paradigmas-De-Programacion\clase7\clase7\obj\Debug\net10.0\clase7.AssemblyInfo.cs
+C:\Users\icrocetti\Desktop\Proyectos\ISI--Paradigmas-De-Programacion\clase7\clase7\obj\Debug\net10.0\clase7.csproj.CoreCompileInputs.cache
+C:\Users\icrocetti\Desktop\Proyectos\ISI--Paradigmas-De-Programacion\clase7\clase7\obj\Debug\net10.0\clase7.sourcelink.json
+C:\Users\icrocetti\Desktop\Proyectos\ISI--Paradigmas-De-Programacion\clase7\clase7\obj\Debug\net10.0\clase7.dll
+C:\Users\icrocetti\Desktop\Proyectos\ISI--Paradigmas-De-Programacion\clase7\clase7\obj\Debug\net10.0\refint\clase7.dll
+C:\Users\icrocetti\Desktop\Proyectos\ISI--Paradigmas-De-Programacion\clase7\clase7\obj\Debug\net10.0\clase7.pdb
+C:\Users\icrocetti\Desktop\Proyectos\ISI--Paradigmas-De-Programacion\clase7\clase7\obj\Debug\net10.0\clase7.genruntimeconfig.cache
+C:\Users\icrocetti\Desktop\Proyectos\ISI--Paradigmas-De-Programacion\clase7\clase7\obj\Debug\net10.0\ref\clase7.dll

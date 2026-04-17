@@ -1,0 +1,14 @@
+C:\Users\icrocetti\Desktop\Proyectos\NombreYapellido\NombreYapellido\bin\Debug\net10.0\NombreYapellido.exe
+C:\Users\icrocetti\Desktop\Proyectos\NombreYapellido\NombreYapellido\bin\Debug\net10.0\NombreYapellido.deps.json
+C:\Users\icrocetti\Desktop\Proyectos\NombreYapellido\NombreYapellido\bin\Debug\net10.0\NombreYapellido.runtimeconfig.json
+C:\Users\icrocetti\Desktop\Proyectos\NombreYapellido\NombreYapellido\bin\Debug\net10.0\NombreYapellido.dll
+C:\Users\icrocetti\Desktop\Proyectos\NombreYapellido\NombreYapellido\bin\Debug\net10.0\NombreYapellido.pdb
+C:\Users\icrocetti\Desktop\Proyectos\NombreYapellido\NombreYapellido\obj\Debug\net10.0\NombreYapellido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icrocetti\Desktop\Proyectos\NombreYapellido\NombreYapellido\obj\Debug\net10.0\NombreYapellido.AssemblyInfoInputs.cache
+C:\Users\icrocetti\Desktop\Proyectos\NombreYapellido\NombreYapellido\obj\Debug\net10.0\NombreYapellido.AssemblyInfo.cs
+C:\Users\icrocetti\Desktop\Proyectos\NombreYapellido\NombreYapellido\obj\Debug\net10.0\NombreYapellido.csproj.CoreCompileInputs.cache
+C:\Users\icrocetti\Desktop\Proyectos\NombreYapellido\NombreYapellido\obj\Debug\net10.0\NombreYapellido.dll
+C:\Users\icrocetti\Desktop\Proyectos\NombreYapellido\NombreYapellido\obj\Debug\net10.0\refint\NombreYapellido.dll
+C:\Users\icrocetti\Desktop\Proyectos\NombreYapellido\NombreYapellido\obj\Debug\net10.0\NombreYapellido.pdb
+C:\Users\icrocetti\Desktop\Proyectos\NombreYapellido\NombreYapellido\obj\Debug\net10.0\NombreYapellido.genruntimeconfig.cache
+C:\Users\icrocetti\Desktop\Proyectos\NombreYapellido\NombreYapellido\obj\Debug\net10.0\ref\NombreYapellido.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\icrocetti\\Desktop\\Proyectos\\ISI--Paradigmas-De-Programacion\\clase7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5BA8D4-6514-4BA8-8A8D-559049C09BB1}|clase7\\clase7.csproj|c:\\users\\icrocetti\\desktop\\proyectos\\isi--paradigmas-de-programacion\\clase7\\clase7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5BA8D4-6514-4BA8-8A8D-559049C09BB1}|clase7\\clase7.csproj|solutionrelative:clase7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icrocetti\\Desktop\\Proyectos\\ISI--Paradigmas-De-Programacion\\clase7\\clase7\\Program.cs",
+              "RelativeDocumentMoniker": "clase7\\Program.cs",
+              "ToolTip": "C:\\Users\\icrocetti\\Desktop\\Proyectos\\ISI--Paradigmas-De-Programacion\\clase7\\clase7\\Program.cs",
+              "RelativeToolTip": "clase7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T22:27:45.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
