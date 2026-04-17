@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.2.11408.102 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstaturaMedia", "EstaturaMedia.csproj", "{96B2B764-7F57-625D-6A3E-34AAB6FD1831}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96B2B764-7F57-625D-6A3E-34AAB6FD1831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B2B764-7F57-625D-6A3E-34AAB6FD1831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B2B764-7F57-625D-6A3E-34AAB6FD1831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B2B764-7F57-625D-6A3E-34AAB6FD1831}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDD59561-3AF5-4FA2-80F9-F6744CD304C5}
+	EndGlobalSection
+EndGlobal

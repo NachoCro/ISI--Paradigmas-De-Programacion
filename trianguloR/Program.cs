@@ -2,25 +2,21 @@
 {
     class Program
     {
-        static float Insertar(string b)
+        static void Insertar(string b, out float a)
         {
-            float a;
             string c;
-            Console.WriteLine($"Ingres el {b} angulo de triangulo");
+            Console.WriteLine({b});
             c = Console.ReadLine();
             while (float.TryParse(c, out a) == false)
             {
-                Console.WriteLine($"Ingrese el {b} angulo de triangulo");
+                Console.WriteLine({b});
                 c = Console.ReadLine();
             }
-
-            return a;
         }
 
         static void Validacion(float a, float b, float c)
         {
-            if (a + b + c != 180
-            && (a == 180 || c == 180 || b == 180))
+            if (a + b + c != 180 && (a == 180 || c == 180 || b == 180))
             {
                 Console.WriteLine("NO ES UN TRIANGULO");
             }
@@ -38,10 +34,9 @@
         {
             float Angulo1, Angulo2, Angulo3;
 
-
-            Angulo1 = Insertar("primer");
-            Angulo2 = Insertar("segundo");
-            Angulo3 = Insertar("tercer");
+            Insertar("Ingrese el primer angulo", Angulo1);
+            Insertar("Ingrese el primer angulo", Angulo2);
+            Insertar("Ingrese el primer angulo", Angulo3);
 
             Validacion(Angulo1, Angulo2, Angulo3); // C:
         }

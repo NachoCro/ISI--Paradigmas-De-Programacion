@@ -1,0 +1,4 @@
+C:\Users\icrocetti\Desktop\Proyectos\clase6\clase6\obj\Debug\net10.0\clase6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icrocetti\Desktop\Proyectos\clase6\clase6\obj\Debug\net10.0\clase6.AssemblyInfoInputs.cache
+C:\Users\icrocetti\Desktop\Proyectos\clase6\clase6\obj\Debug\net10.0\clase6.AssemblyInfo.cs
+C:\Users\icrocetti\Desktop\Proyectos\clase6\clase6\obj\Debug\net10.0\clase6.csproj.CoreCompileInputs.cache

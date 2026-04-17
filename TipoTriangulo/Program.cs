@@ -2,19 +2,16 @@
 {
     class Program
     {
-        static float Insertar(string b)
+        static void Insertar(string b, out float a)
         {
-            float a;
             string c;
-            Console.WriteLine($"Ingres el {b} lado de triangulo");
+            Console.WriteLine({ b});
             c = Console.ReadLine();
             while (float.TryParse(c, out a) == false)
             {
-                Console.WriteLine($"Ingrese el {b} lado de triangulo");
+                Console.WriteLine({ b});
                 c = Console.ReadLine();
             }
-
-            return a;
         }
 
         static bool esTriangulo(float a, float b, float c)
@@ -46,9 +43,10 @@
             float lado1, lado2, lado3;
 
 
-            lado1 = Insertar("primer");
-            lado2 = Insertar("segundo");
-            lado3 = Insertar("tercer");
+            Insertar("Inserte el primer lado: ", lado1);
+            Insertar("Inserte el segundo lado: ", lado2);
+            Insertar("Inserte el tercer lado: ", lado3);
+
 
             if (esTriangulo(lado1, lado2, lado3))
             {
