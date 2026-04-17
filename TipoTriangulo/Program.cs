@@ -6,11 +6,11 @@
         {
             float a;
             string c;
-            System.Console.WriteLine($"Ingres el {b} lado de triangulo");
+            Console.WriteLine($"Ingres el {b} lado de triangulo");
             c = Console.ReadLine();
             while (float.TryParse(c, out a) == false)
             {
-                System.Console.WriteLine($"Ingrese el {b} lado de triangulo");
+                 Console.WriteLine($"Ingrese el {b} lado de triangulo");
                 c = Console.ReadLine();
             }
 
@@ -26,11 +26,11 @@
 
         static void TipoTriangulo(float a,float b,float c){
             if(a == b && a == c){
-                System.Console.WriteLine("Es un triangulo equilatero");
+                 Console.WriteLine("Es un triangulo equilatero");
             }else if(a == b || a == c || c == b){
-                System.Console.WriteLine("Es un triangulo isoseles");
+                 Console.WriteLine("Es un triangulo isoseles");
             }else{
-                System.Console.WriteLine("es un triangulo escaleno");
+                 Console.WriteLine("es un triangulo escaleno");
             }
         }
         static void Main()
@@ -45,7 +45,7 @@
             if(esTriangulo(lado1, lado2, lado3)){
                 TipoTriangulo(lado1, lado2, lado3);
             }else{
-                System.Console.WriteLine("no es un triangulo");
+                 Console.WriteLine("no es un triangulo");
             }
             
         }
