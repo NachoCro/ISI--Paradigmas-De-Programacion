@@ -32,10 +32,12 @@ namespace MenuConsultaAutomotriz
                 {
                     case "Color":
                         {
+                            Console.WriteLine("Haz elegido un color");
                             break;
                         }
                     case "Tapizado":
                         {
+                            Console.WriteLine("Haz elegido un tapizado");
                             break;
                         }
                     default:
@@ -43,6 +45,8 @@ namespace MenuConsultaAutomotriz
                             Console.WriteLine("No existe esa opcion");
                             break; 
                         }
+            Console.WriteLine("Que desea seleccionar: \n > Color \n > Tapizado \n > Salir");
+            string opcion = Console.ReadLine();
                 }
             }
             Console.WriteLine("has salido del programa...");
