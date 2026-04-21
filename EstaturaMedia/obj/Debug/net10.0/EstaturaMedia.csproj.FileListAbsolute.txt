@@ -13,3 +13,11 @@ C:\Users\icrocetti\Desktop\Proyectos\ISI--Paradigmas-De-Programacion\EstaturaMed
 C:\Users\icrocetti\Desktop\Proyectos\ISI--Paradigmas-De-Programacion\EstaturaMedia\obj\Debug\net10.0\EstaturaMedia.pdb
 C:\Users\icrocetti\Desktop\Proyectos\ISI--Paradigmas-De-Programacion\EstaturaMedia\obj\Debug\net10.0\EstaturaMedia.genruntimeconfig.cache
 C:\Users\icrocetti\Desktop\Proyectos\ISI--Paradigmas-De-Programacion\EstaturaMedia\obj\Debug\net10.0\ref\EstaturaMedia.dll
+C:\Users\Raul\Desktop\paradigmas de la programacion\EstaturaMedia\obj\Debug\net10.0\EstaturaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\Desktop\paradigmas de la programacion\EstaturaMedia\obj\Debug\net10.0\EstaturaMedia.AssemblyInfoInputs.cache
+C:\Users\Raul\Desktop\paradigmas de la programacion\EstaturaMedia\obj\Debug\net10.0\EstaturaMedia.AssemblyInfo.cs
+C:\Users\Raul\Desktop\paradigmas de la programacion\EstaturaMedia\obj\Debug\net10.0\EstaturaMedia.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Desktop\paradigmas de la programacion\EstaturaMedia\obj\Debug\net10.0\EstaturaMedia.sourcelink.json
+C:\Users\Raul\Desktop\paradigmas de la programacion\EstaturaMedia\obj\Debug\net10.0\EstaturaMedia.dll
+C:\Users\Raul\Desktop\paradigmas de la programacion\EstaturaMedia\obj\Debug\net10.0\refint\EstaturaMedia.dll
+C:\Users\Raul\Desktop\paradigmas de la programacion\EstaturaMedia\obj\Debug\net10.0\EstaturaMedia.pdb

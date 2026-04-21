@@ -6,11 +6,11 @@ class Program
     static void Insertar(string b, out float a)
     {
         string c;
-        Console.WriteLine({ b});
+        Console.WriteLine(b);
         c = Console.ReadLine();
         while (float.TryParse(c, out a) == false)
         {
-            Console.WriteLine({ b});
+            Console.WriteLine(b);
             c = Console.ReadLine();
         }
     }
