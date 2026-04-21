@@ -1,0 +1,15 @@
+C:\Users\icrocetti\ISI--Paradigmas-De-Programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\bin\Debug\net10.0\MenuConsultaAutomotriz.exe
+C:\Users\icrocetti\ISI--Paradigmas-De-Programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\bin\Debug\net10.0\MenuConsultaAutomotriz.deps.json
+C:\Users\icrocetti\ISI--Paradigmas-De-Programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\bin\Debug\net10.0\MenuConsultaAutomotriz.runtimeconfig.json
+C:\Users\icrocetti\ISI--Paradigmas-De-Programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\bin\Debug\net10.0\MenuConsultaAutomotriz.dll
+C:\Users\icrocetti\ISI--Paradigmas-De-Programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\bin\Debug\net10.0\MenuConsultaAutomotriz.pdb
+C:\Users\icrocetti\ISI--Paradigmas-De-Programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\obj\Debug\net10.0\MenuConsultaAutomotriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icrocetti\ISI--Paradigmas-De-Programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\obj\Debug\net10.0\MenuConsultaAutomotriz.AssemblyInfoInputs.cache
+C:\Users\icrocetti\ISI--Paradigmas-De-Programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\obj\Debug\net10.0\MenuConsultaAutomotriz.AssemblyInfo.cs
+C:\Users\icrocetti\ISI--Paradigmas-De-Programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\obj\Debug\net10.0\MenuConsultaAutomotriz.csproj.CoreCompileInputs.cache
+C:\Users\icrocetti\ISI--Paradigmas-De-Programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\obj\Debug\net10.0\MenuConsultaAutomotriz.sourcelink.json
+C:\Users\icrocetti\ISI--Paradigmas-De-Programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\obj\Debug\net10.0\MenuConsultaAutomotriz.dll
+C:\Users\icrocetti\ISI--Paradigmas-De-Programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\obj\Debug\net10.0\refint\MenuConsultaAutomotriz.dll
+C:\Users\icrocetti\ISI--Paradigmas-De-Programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\obj\Debug\net10.0\MenuConsultaAutomotriz.pdb
+C:\Users\icrocetti\ISI--Paradigmas-De-Programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\obj\Debug\net10.0\MenuConsultaAutomotriz.genruntimeconfig.cache
+C:\Users\icrocetti\ISI--Paradigmas-De-Programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\obj\Debug\net10.0\ref\MenuConsultaAutomotriz.dll
