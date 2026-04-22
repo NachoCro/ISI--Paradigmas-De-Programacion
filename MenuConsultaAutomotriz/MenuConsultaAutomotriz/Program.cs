@@ -33,13 +33,13 @@ namespace MenuConsultaAutomotriz
 
         static float consultarColor()
         {
-            string opcion = Consultar("Que color desea: \n > Negro - $250 \n Blanco - $180 \n > Rojo - $200 \n > Azul - $190");
+            string opcion = Consultar("Que color desea: \n > Negro - $250 \n > Blanco - $180 \n > Rojo - $200 \n > Azul - $190");
             switch (opcion.Trim().ToLower())
             {
-                case "negro": return 250; break;
-                case "blanco": return 180; break;
-                case "rojo": return 200; break;
-                case "azul": return 190; break;
+                case "negro": return 250;
+                case "blanco": return 180;
+                case "rojo": return 200;
+                case "azul": return 190;
                 default:
                     {
                         Exception err = new Exception("No hay mas colores.");
@@ -47,6 +47,7 @@ namespace MenuConsultaAutomotriz
                     }
             }
         }
+
         /*Vinilo $ 150
         Cuero $ 750
         Tela $ 200
@@ -55,12 +56,12 @@ namespace MenuConsultaAutomotriz
         static float consultarTapizado()
         {
             string opcion = Consultar("Que tapizado desea: \n > Vinilo - $150 \n" +
-            " Cuero - $750 \n > Tela - $200");
+                " > Cuero - $750 \n > Tela - $200");
             switch (opcion.Trim().ToLower())
             {
-                case "vinilo": return 150; break;
-                case "cuero": return 750; break;
-                case "tela": return 200; break;
+                case "vinilo": return 150;
+                case "cuero": return 750; 
+                case "tela": return 200; 
                 default:
                     {
                         Exception err = new Exception("No hay mas tapizados.");
@@ -116,13 +117,16 @@ namespace MenuConsultaAutomotriz
                     default:
                         {
                             Console.WriteLine("No existe esa opcion");
+                            Console.ReadKey();
                             break;
                         }
                 }
+                Console.Clear();
                 opcion = Consultar($"Que desea seleccionar: \n > Color \n > Tapizado \n > Salir \n > Precio : {PrecioC + PrecioT}");
             }
             Console.WriteLine("has salido del programa...");
             Console.ReadKey();
+            
         }
 
         static void Main(string[] args)

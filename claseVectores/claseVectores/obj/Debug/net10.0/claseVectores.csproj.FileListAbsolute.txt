@@ -1,0 +1,15 @@
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\claseVectores\claseVectores\bin\Debug\net10.0\claseVectores.exe
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\claseVectores\claseVectores\bin\Debug\net10.0\claseVectores.deps.json
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\claseVectores\claseVectores\bin\Debug\net10.0\claseVectores.runtimeconfig.json
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\claseVectores\claseVectores\bin\Debug\net10.0\claseVectores.dll
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\claseVectores\claseVectores\bin\Debug\net10.0\claseVectores.pdb
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\claseVectores\claseVectores\obj\Debug\net10.0\claseVectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\claseVectores\claseVectores\obj\Debug\net10.0\claseVectores.AssemblyInfoInputs.cache
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\claseVectores\claseVectores\obj\Debug\net10.0\claseVectores.AssemblyInfo.cs
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\claseVectores\claseVectores\obj\Debug\net10.0\claseVectores.csproj.CoreCompileInputs.cache
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\claseVectores\claseVectores\obj\Debug\net10.0\claseVectores.sourcelink.json
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\claseVectores\claseVectores\obj\Debug\net10.0\claseVectores.dll
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\claseVectores\claseVectores\obj\Debug\net10.0\refint\claseVectores.dll
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\claseVectores\claseVectores\obj\Debug\net10.0\claseVectores.pdb
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\claseVectores\claseVectores\obj\Debug\net10.0\claseVectores.genruntimeconfig.cache
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\claseVectores\claseVectores\obj\Debug\net10.0\ref\claseVectores.dll

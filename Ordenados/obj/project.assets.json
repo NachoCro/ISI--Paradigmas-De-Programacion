@@ -8,24 +8,32 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Raul\\.nuget\\packages\\": {}
+    "C:\\Users\\icrocetti\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Raul\\Desktop\\paradigmas de la programacion\\Ordenados\\Ordenados.csproj",
+      "projectUniqueName": "C:\\Users\\icrocetti\\Paradigmas\\ISI--Paradigmas-De-Programacion\\Ordenados\\Ordenados.csproj",
       "projectName": "Ordenados",
-      "projectPath": "C:\\Users\\Raul\\Desktop\\paradigmas de la programacion\\Ordenados\\Ordenados.csproj",
-      "packagesPath": "C:\\Users\\Raul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Raul\\Desktop\\paradigmas de la programacion\\Ordenados\\obj\\",
+      "projectPath": "C:\\Users\\icrocetti\\Paradigmas\\ISI--Paradigmas-De-Programacion\\Ordenados\\Ordenados.csproj",
+      "packagesPath": "C:\\Users\\icrocetti\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\icrocetti\\Paradigmas\\ISI--Paradigmas-De-Programacion\\Ordenados\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Raul\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\icrocetti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -44,7 +52,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net10.0": {
@@ -65,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\icrocetti\\Paradigmas\\ISI--Paradigmas-De-Programacion\\claseVectores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9908E591-529F-4120-A024-B0C0E01720B8}|claseVectores\\claseVectores.csproj|c:\\users\\icrocetti\\paradigmas\\isi--paradigmas-de-programacion\\clasevectores\\clasevectores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9908E591-529F-4120-A024-B0C0E01720B8}|claseVectores\\claseVectores.csproj|solutionrelative:clasevectores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icrocetti\\Paradigmas\\ISI--Paradigmas-De-Programacion\\claseVectores\\claseVectores\\Program.cs",
+              "RelativeDocumentMoniker": "claseVectores\\Program.cs",
+              "ToolTip": "C:\\Users\\icrocetti\\Paradigmas\\ISI--Paradigmas-De-Programacion\\claseVectores\\claseVectores\\Program.cs",
+              "RelativeToolTip": "claseVectores\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T23:21:50.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

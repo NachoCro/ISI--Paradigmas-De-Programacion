@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\icrocetti\\Paradigmas\\ISI--Paradigmas-De-Programacion\\ClaseVec2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE677992-9F2C-4B88-A8D3-82D6FACEAEF9}|ClaseVec2\\ClaseVec2.csproj|c:\\users\\icrocetti\\paradigmas\\isi--paradigmas-de-programacion\\clasevec2\\clasevec2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE677992-9F2C-4B88-A8D3-82D6FACEAEF9}|ClaseVec2\\ClaseVec2.csproj|solutionrelative:clasevec2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icrocetti\\Paradigmas\\ISI--Paradigmas-De-Programacion\\ClaseVec2\\ClaseVec2\\Program.cs",
+              "RelativeDocumentMoniker": "ClaseVec2\\Program.cs",
+              "ToolTip": "C:\\Users\\icrocetti\\Paradigmas\\ISI--Paradigmas-De-Programacion\\ClaseVec2\\ClaseVec2\\Program.cs",
+              "RelativeToolTip": "ClaseVec2\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T23:48:12.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
