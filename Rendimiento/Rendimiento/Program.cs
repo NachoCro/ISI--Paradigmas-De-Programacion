@@ -20,23 +20,25 @@ la pregunta: “¿Continúa?”.
             }
             return c;
         }
-        static void Rendimiento(float km, float l)
+        static void Rendimiento(out float R)
         {
-            Console.WriteLine($"su rendimiento es de: {km/l}");
-            Console.WriteLine("Continua? \n c - cerrar \n otra tecla - continuar");
-            while ()
+            string tecla;
+            float km, l;
+            do
             {
-
-                R = km / l;
-            }
+            km = Insertar("Ingrese una cantidad recorrida en km: ");
+            l = Insertar("Inserte el consumo de litros: ");
+            R = km/l;
+            System.Console.WriteLine($"Rendimiento: {R}");
+            Console.WriteLine("Continua? \n c - cerrar \n otra tecla - continuar");
+            tecla = Console.ReadLine();
+                
+            }while (tecla.ToLower() != "c");
         }
         static void Main(string[] args)
         {
-            float km, l, rendimiento;
-
-            km = Insertar("Ingrese una cantidad recorrida en km: ");
-            l = Insertar("Inserte el consumo de litros: ");
-
+            float rend;
+            Rendimiento(out rend);
         }
     }
 }

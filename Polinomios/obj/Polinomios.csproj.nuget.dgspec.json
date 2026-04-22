@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raul\\Desktop\\paradigmas de la programacion\\Rendimiento\\Rendimiento\\Rendimiento.csproj": {}
+    "C:\\Users\\Raul\\Desktop\\paradigmas de la programacion\\Polinomios\\Polinomios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raul\\Desktop\\paradigmas de la programacion\\Rendimiento\\Rendimiento\\Rendimiento.csproj": {
+    "C:\\Users\\Raul\\Desktop\\paradigmas de la programacion\\Polinomios\\Polinomios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raul\\Desktop\\paradigmas de la programacion\\Rendimiento\\Rendimiento\\Rendimiento.csproj",
-        "projectName": "Rendimiento",
-        "projectPath": "C:\\Users\\Raul\\Desktop\\paradigmas de la programacion\\Rendimiento\\Rendimiento\\Rendimiento.csproj",
+        "projectUniqueName": "C:\\Users\\Raul\\Desktop\\paradigmas de la programacion\\Polinomios\\Polinomios.csproj",
+        "projectName": "Polinomios",
+        "projectPath": "C:\\Users\\Raul\\Desktop\\paradigmas de la programacion\\Polinomios\\Polinomios.csproj",
         "packagesPath": "C:\\Users\\Raul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raul\\Desktop\\paradigmas de la programacion\\Rendimiento\\Rendimiento\\obj\\",
+        "outputPath": "C:\\Users\\Raul\\Desktop\\paradigmas de la programacion\\Polinomios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Raul\\AppData\\Roaming\\NuGet\\NuGet.Config"
