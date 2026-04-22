@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/home/ene/.nuget/packages/": {}
+    "C:\\Users\\Raul\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ene/Nacho/ISI/Paradigma/ISI--Paradigmas-De-Programacion/MenuConsultaAutomotriz/MenuConsultaAutomotriz/MenuConsultaAutomotriz.csproj",
+      "projectUniqueName": "C:\\Users\\Raul\\Desktop\\paradigmas de la programacion\\MenuConsultaAutomotriz\\MenuConsultaAutomotriz\\MenuConsultaAutomotriz.csproj",
       "projectName": "MenuConsultaAutomotriz",
-      "projectPath": "/home/ene/Nacho/ISI/Paradigma/ISI--Paradigmas-De-Programacion/MenuConsultaAutomotriz/MenuConsultaAutomotriz/MenuConsultaAutomotriz.csproj",
-      "packagesPath": "/home/ene/.nuget/packages/",
-      "outputPath": "/home/ene/Nacho/ISI/Paradigma/ISI--Paradigmas-De-Programacion/MenuConsultaAutomotriz/MenuConsultaAutomotriz/obj/",
+      "projectPath": "C:\\Users\\Raul\\Desktop\\paradigmas de la programacion\\MenuConsultaAutomotriz\\MenuConsultaAutomotriz\\MenuConsultaAutomotriz.csproj",
+      "packagesPath": "C:\\Users\\Raul\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Raul\\Desktop\\paradigmas de la programacion\\MenuConsultaAutomotriz\\MenuConsultaAutomotriz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/ene/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Raul\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -44,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net10.0": {
@@ -60,18 +60,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[10.0.4, 10.0.4]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

@@ -28,3 +28,18 @@ C:/Users/icrocetti/ISI--Paradigmas-De-Programacion/MenuConsultaAutomotriz/MenuCo
 /home/ene/Nacho/ISI/Paradigma/ISI--Paradigmas-De-Programacion/MenuConsultaAutomotriz/MenuConsultaAutomotriz/obj/Debug/net10.0/MenuConsultaAutomotriz.pdb
 /home/ene/Nacho/ISI/Paradigma/ISI--Paradigmas-De-Programacion/MenuConsultaAutomotriz/MenuConsultaAutomotriz/obj/Debug/net10.0/MenuConsultaAutomotriz.genruntimeconfig.cache
 /home/ene/Nacho/ISI/Paradigma/ISI--Paradigmas-De-Programacion/MenuConsultaAutomotriz/MenuConsultaAutomotriz/obj/Debug/net10.0/ref/MenuConsultaAutomotriz.dll
+C:\Users\Raul\Desktop\paradigmas de la programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\obj\Debug\net10.0\MenuConsultaAutomotriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\Desktop\paradigmas de la programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\obj\Debug\net10.0\MenuConsultaAutomotriz.AssemblyInfoInputs.cache
+C:\Users\Raul\Desktop\paradigmas de la programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\obj\Debug\net10.0\MenuConsultaAutomotriz.AssemblyInfo.cs
+C:\Users\Raul\Desktop\paradigmas de la programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\obj\Debug\net10.0\MenuConsultaAutomotriz.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Desktop\paradigmas de la programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\obj\Debug\net10.0\MenuConsultaAutomotriz.sourcelink.json
+C:\Users\Raul\Desktop\paradigmas de la programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\obj\Debug\net10.0\MenuConsultaAutomotriz.dll
+C:\Users\Raul\Desktop\paradigmas de la programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\obj\Debug\net10.0\refint\MenuConsultaAutomotriz.dll
+C:\Users\Raul\Desktop\paradigmas de la programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\obj\Debug\net10.0\MenuConsultaAutomotriz.pdb
+C:\Users\Raul\Desktop\paradigmas de la programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\bin\Debug\net10.0\MenuConsultaAutomotriz.exe
+C:\Users\Raul\Desktop\paradigmas de la programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\bin\Debug\net10.0\MenuConsultaAutomotriz.deps.json
+C:\Users\Raul\Desktop\paradigmas de la programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\bin\Debug\net10.0\MenuConsultaAutomotriz.runtimeconfig.json
+C:\Users\Raul\Desktop\paradigmas de la programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\bin\Debug\net10.0\MenuConsultaAutomotriz.dll
+C:\Users\Raul\Desktop\paradigmas de la programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\bin\Debug\net10.0\MenuConsultaAutomotriz.pdb
+C:\Users\Raul\Desktop\paradigmas de la programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\obj\Debug\net10.0\MenuConsultaAutomotriz.genruntimeconfig.cache
+C:\Users\Raul\Desktop\paradigmas de la programacion\MenuConsultaAutomotriz\MenuConsultaAutomotriz\obj\Debug\net10.0\ref\MenuConsultaAutomotriz.dll

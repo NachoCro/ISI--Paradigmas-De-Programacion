@@ -76,7 +76,7 @@ namespace MenuConsultaAutomotriz
             string opcion = Consultar("Que desea seleccionar: \n > Color \n > Tapizado \n > Salir");
             while (opcion.Trim().ToLower() != "salir")
             {
-
+                
                 valido = false;
                 switch (opcion.Trim().ToLower())
                 {
