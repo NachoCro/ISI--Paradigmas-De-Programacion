@@ -1,0 +1,15 @@
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\ClaseVec2\ClaseVec2\bin\Debug\net10.0\ClaseVec2.exe
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\ClaseVec2\ClaseVec2\bin\Debug\net10.0\ClaseVec2.deps.json
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\ClaseVec2\ClaseVec2\bin\Debug\net10.0\ClaseVec2.runtimeconfig.json
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\ClaseVec2\ClaseVec2\bin\Debug\net10.0\ClaseVec2.dll
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\ClaseVec2\ClaseVec2\bin\Debug\net10.0\ClaseVec2.pdb
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\ClaseVec2\ClaseVec2\obj\Debug\net10.0\ClaseVec2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\ClaseVec2\ClaseVec2\obj\Debug\net10.0\ClaseVec2.AssemblyInfoInputs.cache
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\ClaseVec2\ClaseVec2\obj\Debug\net10.0\ClaseVec2.AssemblyInfo.cs
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\ClaseVec2\ClaseVec2\obj\Debug\net10.0\ClaseVec2.csproj.CoreCompileInputs.cache
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\ClaseVec2\ClaseVec2\obj\Debug\net10.0\ClaseVec2.sourcelink.json
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\ClaseVec2\ClaseVec2\obj\Debug\net10.0\ClaseVec2.dll
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\ClaseVec2\ClaseVec2\obj\Debug\net10.0\refint\ClaseVec2.dll
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\ClaseVec2\ClaseVec2\obj\Debug\net10.0\ClaseVec2.pdb
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\ClaseVec2\ClaseVec2\obj\Debug\net10.0\ClaseVec2.genruntimeconfig.cache
+C:\Users\icrocetti\Paradigmas\ISI--Paradigmas-De-Programacion\ClaseVec2\ClaseVec2\obj\Debug\net10.0\ref\ClaseVec2.dll

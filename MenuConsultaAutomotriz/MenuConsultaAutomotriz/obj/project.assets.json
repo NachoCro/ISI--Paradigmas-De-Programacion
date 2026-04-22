@@ -8,24 +8,48 @@
     "net10.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Raul\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\icrocetti\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+>>>>>>> refs/remotes/origin/main
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Raul\\Desktop\\paradigmas de la programacion\\MenuConsultaAutomotriz\\MenuConsultaAutomotriz\\MenuConsultaAutomotriz.csproj",
       "projectName": "MenuConsultaAutomotriz",
       "projectPath": "C:\\Users\\Raul\\Desktop\\paradigmas de la programacion\\MenuConsultaAutomotriz\\MenuConsultaAutomotriz\\MenuConsultaAutomotriz.csproj",
       "packagesPath": "C:\\Users\\Raul\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Raul\\Desktop\\paradigmas de la programacion\\MenuConsultaAutomotriz\\MenuConsultaAutomotriz\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\icrocetti\\Paradigmas\\ISI--Paradigmas-De-Programacion\\MenuConsultaAutomotriz\\MenuConsultaAutomotriz\\MenuConsultaAutomotriz.csproj",
+      "projectName": "MenuConsultaAutomotriz",
+      "projectPath": "C:\\Users\\icrocetti\\Paradigmas\\ISI--Paradigmas-De-Programacion\\MenuConsultaAutomotriz\\MenuConsultaAutomotriz\\MenuConsultaAutomotriz.csproj",
+      "packagesPath": "C:\\Users\\icrocetti\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\icrocetti\\Paradigmas\\ISI--Paradigmas-De-Programacion\\MenuConsultaAutomotriz\\MenuConsultaAutomotriz\\obj\\",
+>>>>>>> refs/remotes/origin/main
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\Raul\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+        "C:\\Users\\icrocetti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> refs/remotes/origin/main
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -65,7 +89,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+>>>>>>> refs/remotes/origin/main
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

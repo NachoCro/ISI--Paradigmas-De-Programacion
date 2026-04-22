@@ -8,7 +8,7 @@ namespace ordenados
         {
             int a;
             Console.Write(b);
-            string? c = Console.ReadLine();
+            string c = Console.ReadLine();
             while (!int.TryParse(c, out a))
             {
                 System.Console.Write(b);
@@ -25,7 +25,7 @@ namespace ordenados
 
             for (int i = 1; i < N ; i++)
             {
-                act = consulta("Ingrese un numero:");
+                act = consulta($"Ingrese el numero :");
 
                 if (ant > act)
                 {

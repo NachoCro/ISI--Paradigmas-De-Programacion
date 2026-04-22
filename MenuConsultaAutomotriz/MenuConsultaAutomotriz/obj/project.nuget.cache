@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "1YuzxXpVL2c=",
   "success": true,
   "projectFilePath": "C:\\Users\\Raul\\Desktop\\paradigmas de la programacion\\MenuConsultaAutomotriz\\MenuConsultaAutomotriz\\MenuConsultaAutomotriz.csproj",
+=======
+  "dgSpecHash": "8Y/hmL9IORQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\icrocetti\\Paradigmas\\ISI--Paradigmas-De-Programacion\\MenuConsultaAutomotriz\\MenuConsultaAutomotriz\\MenuConsultaAutomotriz.csproj",
+>>>>>>> refs/remotes/origin/main
   "expectedPackageFiles": [],
   "logs": []
 }
