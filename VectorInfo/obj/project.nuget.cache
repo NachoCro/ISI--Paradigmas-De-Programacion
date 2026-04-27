@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PWeNWyrT1BY=",
+  "dgSpecHash": "hAu4pIsXc2Y=",
   "success": true,
-  "projectFilePath": "/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/ClaseVec2/ClaseVec2/ClaseVec2.csproj",
+  "projectFilePath": "/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/VectorInfo/VectorInfo.csproj",
   "expectedPackageFiles": [
     "/home/icrocetti/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
   ],

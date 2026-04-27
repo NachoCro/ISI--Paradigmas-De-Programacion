@@ -1,0 +1,15 @@
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/VectorInfo/bin/Debug/net10.0/VectorInfo
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/VectorInfo/bin/Debug/net10.0/VectorInfo.deps.json
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/VectorInfo/bin/Debug/net10.0/VectorInfo.runtimeconfig.json
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/VectorInfo/bin/Debug/net10.0/VectorInfo.dll
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/VectorInfo/bin/Debug/net10.0/VectorInfo.pdb
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/VectorInfo/obj/Debug/net10.0/VectorInfo.GeneratedMSBuildEditorConfig.editorconfig
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/VectorInfo/obj/Debug/net10.0/VectorInfo.AssemblyInfoInputs.cache
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/VectorInfo/obj/Debug/net10.0/VectorInfo.AssemblyInfo.cs
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/VectorInfo/obj/Debug/net10.0/VectorInfo.csproj.CoreCompileInputs.cache
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/VectorInfo/obj/Debug/net10.0/VectorInfo.sourcelink.json
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/VectorInfo/obj/Debug/net10.0/VectorInfo.dll
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/VectorInfo/obj/Debug/net10.0/refint/VectorInfo.dll
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/VectorInfo/obj/Debug/net10.0/VectorInfo.pdb
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/VectorInfo/obj/Debug/net10.0/VectorInfo.genruntimeconfig.cache
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/VectorInfo/obj/Debug/net10.0/ref/VectorInfo.dll

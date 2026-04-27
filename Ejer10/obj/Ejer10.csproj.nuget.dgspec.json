@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/ClaseVec2/ClaseVec2/ClaseVec2.csproj": {}
+    "/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/Ejer10/Ejer10.csproj": {}
   },
   "projects": {
-    "/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/ClaseVec2/ClaseVec2/ClaseVec2.csproj": {
+    "/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/Ejer10/Ejer10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/ClaseVec2/ClaseVec2/ClaseVec2.csproj",
-        "projectName": "ClaseVec2",
-        "projectPath": "/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/ClaseVec2/ClaseVec2/ClaseVec2.csproj",
+        "projectUniqueName": "/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/Ejer10/Ejer10.csproj",
+        "projectName": "Ejer10",
+        "projectPath": "/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/Ejer10/Ejer10.csproj",
         "packagesPath": "/home/icrocetti/.nuget/packages/",
-        "outputPath": "/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/ClaseVec2/ClaseVec2/obj/",
+        "outputPath": "/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/Ejer10/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/icrocetti/.nuget/NuGet/NuGet.Config"

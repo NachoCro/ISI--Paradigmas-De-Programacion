@@ -1,0 +1,15 @@
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/Ejer10/bin/Debug/net10.0/Ejer10
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/Ejer10/bin/Debug/net10.0/Ejer10.deps.json
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/Ejer10/bin/Debug/net10.0/Ejer10.runtimeconfig.json
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/Ejer10/bin/Debug/net10.0/Ejer10.dll
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/Ejer10/bin/Debug/net10.0/Ejer10.pdb
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/Ejer10/obj/Debug/net10.0/Ejer10.GeneratedMSBuildEditorConfig.editorconfig
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/Ejer10/obj/Debug/net10.0/Ejer10.AssemblyInfoInputs.cache
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/Ejer10/obj/Debug/net10.0/Ejer10.AssemblyInfo.cs
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/Ejer10/obj/Debug/net10.0/Ejer10.csproj.CoreCompileInputs.cache
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/Ejer10/obj/Debug/net10.0/Ejer10.sourcelink.json
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/Ejer10/obj/Debug/net10.0/Ejer10.dll
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/Ejer10/obj/Debug/net10.0/refint/Ejer10.dll
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/Ejer10/obj/Debug/net10.0/Ejer10.pdb
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/Ejer10/obj/Debug/net10.0/Ejer10.genruntimeconfig.cache
+/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/Ejer10/obj/Debug/net10.0/ref/Ejer10.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/ClaseVec2/ClaseVec2/ClaseVec2.csproj",
-      "projectName": "ClaseVec2",
-      "projectPath": "/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/ClaseVec2/ClaseVec2/ClaseVec2.csproj",
+      "projectUniqueName": "/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/VectorInfo/VectorInfo.csproj",
+      "projectName": "VectorInfo",
+      "projectPath": "/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/VectorInfo/VectorInfo.csproj",
       "packagesPath": "/home/icrocetti/.nuget/packages/",
-      "outputPath": "/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/ClaseVec2/ClaseVec2/obj/",
+      "outputPath": "/home/icrocetti/dev/ISI--Paradigmas-De-Programacion/VectorInfo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/icrocetti/.nuget/NuGet/NuGet.Config"
